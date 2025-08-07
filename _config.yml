@@ -22,10 +22,10 @@ repository               : Xihao12/Xihao-Yang.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Github_MyPage.png"
+  avatar           : Github_MyPage.png
   name             : "Xihao Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Continue Studying"
   location         : "Yokohama, Japan"
   university       : "Keio University"
   uri              : # URL
