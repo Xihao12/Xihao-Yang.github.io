@@ -9,10 +9,10 @@ redirect_from:
 
 I'm a refreshman of postgraduate student from Department of Information and Computer Science, Keio University. My research interest includes Software Engineering, Software Testing, Machine Learning.
 
-I am very fortunate to be advised by [Prof. Takada](https://www.st.keio.ac.jp/en/tprofile/ics/takada.html) of Takada Lab from [Department of Information and Computer Science](https://www.st.keio.ac.jp/en/departments/faculty/ics.html), Keio University. 
+I am very fortunate to be advised by Prof. Takada(https://www.st.keio.ac.jp/en/tprofile/ics/takada.html) of Takada Lab from [Department of Information and Computer Science](https://www.st.keio.ac.jp/en/departments/faculty/ics.html), Keio University. 
 
 You can find my CV here: [Xihao Yang's Curriculum Vitae](../assets/CV-XihaoYang.pdf).
-[Email]() / [Github](https://github.com/QiuDi233) / [Wechat](../images/Github_MyPage.png) /
+[Email]() / [Github](ttps://github.com/Xihao12) / [Wechat](../images/Github_MyPage.png) /
 
 
 
