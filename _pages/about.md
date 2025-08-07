@@ -13,7 +13,7 @@ I am very fortunate to be advised by Prof. Takada(https://www.st.keio.ac.jp/en/t
 
 You can find my CV here: [Xihao Yang's Curriculum Vitae](../assets/CV-XihaoYang.pdf).
 
-[Email]() / [Github](ttps://github.com/Xihao12) / [Wechat](../images/Github_MyPage.png) /
+[Email]() / [Github](https://github.com/Xihao12) / [Wechat](../images/Github_MyPage.png) /
 
 
 
