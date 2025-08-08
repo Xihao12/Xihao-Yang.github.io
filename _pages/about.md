@@ -31,7 +31,7 @@ For those users that need more advanced functionality, the template also support
 - [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
-======
+======https://github.com/Xihao12/Xihao-Yang.github.io/blob/master/_pages/about.md
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
