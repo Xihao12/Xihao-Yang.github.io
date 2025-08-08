@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a refreshman of postgraduate student from Department of Information and Computer Science, Keio University. My research interest includes Software Engineering, Software Testing, Machine Learning.
+I'm a refreshman of postgraduate student from Department of Information and Computer Science, Keio University. 
+
+My research interest includes Software Engineering, Software Testing, Machine Learning.
 
 I am very fortunate to be advised by Prof. Takada of Takada Lab from [Department of Information and Computer Science](https://www.st.keio.ac.jp/en/departments/faculty/ics.html), Keio University. 
 
